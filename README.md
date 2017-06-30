@@ -18,10 +18,10 @@
 - python3
 
 ## Examples
-![sumade](./data/img/example1.png)
-![SnowQ](./data/img/example2.png)
-![olye](./data/img/example3.png)
-![cultivateuca](./data/img/example4.png)
+![sumade](./data/img/example1.PNG)<br />
+![SnowQ](./data/img/example2.PNG)<br />
+![olye](./data/img/example3.PNG)<br />
+![cultivateuca](./data/img/example4.PNG)<br />
 
 ## 方法
 使用 sklearn 裡的 svm.LinearSVC() 來作為分類器
