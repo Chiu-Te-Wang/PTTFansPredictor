@@ -7,14 +7,14 @@
 - PTT Elephants版 index 3558 ~ 59
 - PTT Monkeys版 index 3672 ~ 173
 - PTT Lions版 index 3381 ~ 82
-- PTT Guardians版 index 3542 ~ 43
+- PTT Guardians版 index 3542 ~ 43<br />
 更改 wy36101299 的 [PTTcrawler](https://github.com/wy36101299/PTTcrawler) 來抓取資料
 
 ## 使用方法
 	python3 classifier.py ../data/userFeatureTest.json ../data/trainCase.txt ../data/testCase.txt
 
 ## package 需求
-- sklearn version > 0.18.1
+- sklearn version >= 0.18.1
 - python3
 
 ## Examples
